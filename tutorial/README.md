@@ -1,6 +1,6 @@
-# Quasar_Tutorial (tutorial)
+# Tutorial App (tutorial)
 
- The Quasar Project Tutorial
+A Quasar Tutorial
 
 ## Install the dependencies
 ```bash

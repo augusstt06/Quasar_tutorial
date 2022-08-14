@@ -39,7 +39,7 @@ module.exports = configure(function (ctx) {
 
     // https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js#Property%3A-css
     css: [
-      'app.scss'
+      'app.sass'
     ],
 
     // https://github.com/quasarframework/quasar/tree/dev/extras
@@ -144,8 +144,8 @@ module.exports = configure(function (ctx) {
       // chainWebpackCustomSW (/* chain */) {},
 
       manifest: {
-        name: 'Quasar_Tutorial',
-        short_name: 'Quasar_Tutorial',
+        name: 'Tutorial App',
+        short_name: 'Tutorial App',
         description: '',
         display: 'standalone',
         orientation: 'portrait',
